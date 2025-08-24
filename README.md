@@ -1,16 +1,19 @@
-## Hi there 👋
+# Brunonmm8 Official Website
 
-<!--
-**Brunonmm8/Brunonmm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the **official website of Brunonmm8**, a YouTube creator known for fun, crazy, and epic content!  
 
-Here are some ideas to get you started:
+## About
+This website showcases the latest videos from Brunonmm8, introduces the creator, and provides ways to connect through social media.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- Watch the latest YouTube videos directly on the site  
+- Learn about Brunonmm8 and the channel  
+- Find contact info and social media links  
+
+## Notes
+- All videos are embedded from the official YouTube channel.  
+- Designed with a dark theme and simple, easy-to-navigate layout.  
+
+---
+
+**Follow Brunonmm8 on YouTube for more epic content!**
